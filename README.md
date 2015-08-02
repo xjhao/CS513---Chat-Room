@@ -6,12 +6,6 @@ Introduction
 
 For this project, you must write a chat program based on the client-server model using C or C++ using Linux socket commands. The learning objective of this project is provide you with insight into practical computer networks and the problems faced when implementing them.
 
-General Information
-
-This is an individual project assignment for each student.  Each student must develop and submit a project report. Please see the Software Programming Project Sample Outline in the course syllabus section on our class website for more detailed information. 
-
-All project sources and reports will be checked for plagiarism, including being checked against solutions from online sources. If you are found guilty there will be serious consequences, including receiving a mark of zero for the project.  Please review the WPI policies on Academic Honesty and Avoiding Plagiarism at http://www.wpi.edu/Images/CMS/Bio/academic.pdf
-
 
 Project Specifications
 
